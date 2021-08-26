@@ -62,7 +62,7 @@ while converting into inches into feets
 ![Output](outputs/if.png)
 
 
-If you want more function in this program 
+### If you want more function in this program 
 
-email me : tanmayrmohite@gmail.com
+### email me : tanmayrmohite@gmail.com
 
