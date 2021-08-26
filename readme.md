@@ -17,7 +17,7 @@ program output:
 
 ![Output](outputs/ms.png)
 
-### Seconds into minute
+## Seconds into minute
 while converting into seconds into minute
 
 ```divide the time value by 60```
@@ -26,7 +26,7 @@ program output:
 
 ![Output](outputs/sm.png)
 
-### Kilometre into metre
+## Kilometre into metre
 while converting into kilometre into metre
 
 ```multiply the length value by 1000```
@@ -35,7 +35,7 @@ program output:
 
 ![Output](outputs/km.png)
 
-### Metre into kilometre
+## Metre into kilometre
 
 while converting metre into kilometre
 
@@ -45,7 +45,7 @@ program output:
 
 ![Output](outputs/mk.png)
 
-### Feet into inches
+## Feet into inches
 while converting into feets into inches
 
 ```multiply the length value by 12```
@@ -54,7 +54,7 @@ program output:
 
 ![Output](outputs/fi.png)
 
-### Inches into feets
+## Inches into feets
 while converting into inches into feets
 
 ```divide the length value by 12```
