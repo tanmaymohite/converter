@@ -3,7 +3,7 @@
 
 ### This program is made by me to make easy to you in subjects like science-1 and maths, by solving the problems in science-1 and maths you may have arise difficulties to convert Minutes into second , second into minute or Kilometre into metre , metre into kilometre or feets into inches , inches into feets, etc
 
-Don't worry this program will fix your problem
+### Don't worry this program will fix your problem
 
 ![Output](outputs/p.png)
 
