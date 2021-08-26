@@ -7,7 +7,7 @@ Don't worry this program will fix your problem
 
 ![Output](outputs/p.png)
 
-### Minute into seconds
+## Minute into seconds
 
 while converting into minute into seconds
 
